@@ -8,5 +8,5 @@ The aim of this project is to develop a system to monitor SLEEP STAGEs. In order
 Tips: you can arrage the list of SLEEP stage from {AWAKE REM S1 S2 S3 S4} or {AWAKE S1 S2 S3 S4 REM}, as REM is not a stable stage, and scoring the REM stage is a difficult task. 
 
 
-##NOTEs:
+## NOTEs:
 either you can utilize these matab codes to simulate or test the performanc of these exteacted features, or you can develope some new features from HRV which has been proved to be effective for detecting SLEEP stages. BUT, this projects is just a simple framework. More practical SLEEP data should be added into this model. If you need any help, just email me via kangkangsome@gmail.com . 
