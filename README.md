@@ -1,14 +1,14 @@
 
-# HRV for Sleep Scoring and Pressure Evaluation
+# HRV for Sleep Scoring and Pressure Evaluating
 
 
-1. [Using LSTM for SLEEP SCORING based on HRV](#sleep prediction)
-2. [Pressure Evaluation by HRV](#pressure prediction)
+1. [Using LSTM for SLEEP SCORING based on HRV](#sleep)
+2. [Pressure Evaluation by HRV](#pressure)
 3. [Contributors](#contributors)
 
 
 
-# Using LSTM for SLEEP SCORING based on HRV <a name="sleep prediction"></a>
+# Using LSTM for SLEEP SCORING based on HRV <a name="sleep"></a>
  You can download the dataset from: http://www.ofai.at/siesta/.
 
 
@@ -21,7 +21,7 @@ The illustrated result:
   <img src="image/figure 2.bmp">
 </p>
 
-# Pressure Evaluation by HRV <a name="pressure prediction"></a>
+# Pressure Evaluation by HRV <a name="pressure"></a>
 
 Compared these two groups (healthy controls and depressive patiens), we can statistic the distribution of these HRV features by regions evaluation.
 
