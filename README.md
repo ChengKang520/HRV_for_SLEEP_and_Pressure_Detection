@@ -24,10 +24,9 @@ The illustrated result:
 
 # Pressure Evaluation by HRV <a name="pressure"></a>
 
-Compared these two groups (healthy controls and depressive patiens), we can statistic the distribution of these HRV features by regions evaluation.
+We collectd the 3-ECGs from a hospital (Shenzhen Kangning Hospital & Shenzhen Mental Health Center) and this project has been transformed to industrial application.
 
-- (This project has been transformed to industrial application. You can find the products in http://www.qhrv.cn/dtr_ans_cn.htm
-Therefore, we can provide the service of technical or educational aspects.)
+Compared these two groups (healthy controls and depressive patiens), we can statistic the distribution of these HRV features by regions evaluation. You can find the products in http://www.qhrv.cn/dtr_ans_cn.htm
 
 <p align="center">
   <img src="image/figure 1.bmp">
